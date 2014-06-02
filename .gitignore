@@ -1,7 +1,7 @@
-f# Build Folders (you can keep bin if you'd like, to store dlls and pdbs)
-[Bb]in/
-[Oo]bj/
-
+$ git status
+[...]
+# Untracked files:
+[...]
 # Ignorar todos os diretórios e arquivos em um diretório.
 obj/**/*
 
@@ -16,6 +16,8 @@ TestResults
 *.user
 *.sln.docstates
 *.cache
+*.dll
+*.pdb
 
 # Build results
 [Dd]ebug/
