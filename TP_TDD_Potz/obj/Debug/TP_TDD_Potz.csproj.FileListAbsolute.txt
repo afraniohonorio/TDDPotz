@@ -1,0 +1,5 @@
+C:\Users\Afrânio\Documents\GitHub\TP_TDD_Potz\TP_TDD_Potz\bin\TP_TDD_Potz.dll
+C:\Users\Afrânio\Documents\GitHub\TP_TDD_Potz\TP_TDD_Potz\bin\TP_TDD_Potz.pdb
+C:\Users\Afrânio\Documents\GitHub\TP_TDD_Potz\TP_TDD_Potz\obj\Debug\TP_TDD_Potz.csprojResolveAssemblyReference.cache
+C:\Users\Afrânio\Documents\GitHub\TP_TDD_Potz\TP_TDD_Potz\obj\Debug\TP_TDD_Potz.dll
+C:\Users\Afrânio\Documents\GitHub\TP_TDD_Potz\TP_TDD_Potz\obj\Debug\TP_TDD_Potz.pdb

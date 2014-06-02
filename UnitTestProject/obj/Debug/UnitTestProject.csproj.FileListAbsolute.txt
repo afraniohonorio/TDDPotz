@@ -1,0 +1,7 @@
+C:\Users\Afrânio\Documents\GitHub\TP_TDD_Potz\UnitTestProject\obj\Debug\UnitTestProject.csprojResolveAssemblyReference.cache
+C:\Users\Afrânio\Documents\GitHub\TP_TDD_Potz\UnitTestProject\bin\Debug\UnitTestProject.dll
+C:\Users\Afrânio\Documents\GitHub\TP_TDD_Potz\UnitTestProject\bin\Debug\UnitTestProject.pdb
+C:\Users\Afrânio\Documents\GitHub\TP_TDD_Potz\UnitTestProject\bin\Debug\TP_TDD_Potz.dll
+C:\Users\Afrânio\Documents\GitHub\TP_TDD_Potz\UnitTestProject\bin\Debug\TP_TDD_Potz.pdb
+C:\Users\Afrânio\Documents\GitHub\TP_TDD_Potz\UnitTestProject\obj\Debug\UnitTestProject.dll
+C:\Users\Afrânio\Documents\GitHub\TP_TDD_Potz\UnitTestProject\obj\Debug\UnitTestProject.pdb
